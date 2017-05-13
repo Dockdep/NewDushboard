@@ -1,0 +1,73 @@
+﻿.box {
+    height: 50px;
+    /*background-color: #286090;*/
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+.teamScore {
+    color: orange;
+    font-weight: bold;
+}
+
+.teamName {
+    color: ghostwhite;
+}
+
+.match-th {
+    color: #a94442;
+}
+
+.match-type {
+    color: #FF5722;
+    margin-bottom: 0px;
+    font-size: 22px;
+    font-style: italic;
+}
+
+th, td {
+    text-align: center;
+}
+
+.feed-table {
+    height: 190px;
+    overflow: auto;
+}
+
+.chat-table {
+    height: 253px;
+    overflow: auto;
+}
+
+.feed-time {
+    color: brown;
+    font-size: 10px;
+}
+
+.feed-update {
+    color: #337ab7;
+}
+
+.feed-highlight {
+    background-color: #a94442;
+    -webkit-transition: background-color 2000ms linear;
+    -moz-transition: background-color 2000ms linear;
+    -o-transition: background-color 2000ms linear;
+    -ms-transition: background-color 2000ms linear;
+    transition: background-color 2000ms linear;
+}
+
+.feed-highlight-light {
+    background-color: white;
+    -webkit-transition: background-color 2000ms linear;
+    -moz-transition: background-color 2000ms linear;
+    -o-transition: background-color 2000ms linear;
+    -ms-transition: background-color 2000ms linear;
+    transition: background-color 2000ms linear;
+}
+
+
+.orange {
+    color: #ff5525;
+}

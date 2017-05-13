@@ -1,0 +1,7 @@
+D:\Projects\Parser\VGCMS\AParser\bin\Debug\netcoreapp1.1\GParser.deps.json
+D:\Projects\Parser\VGCMS\AParser\bin\Debug\netcoreapp1.1\GParser.dll
+D:\Projects\Parser\VGCMS\AParser\obj\Debug\netcoreapp1.1\GParser.csprojResolveAssemblyReference.cache
+D:\Projects\Parser\VGCMS\AParser\obj\Debug\netcoreapp1.1\GParser.AssemblyInfo.cs
+D:\Projects\Parser\VGCMS\AParser\bin\Debug\netcoreapp1.1\GParser.pdb
+D:\Projects\Parser\VGCMS\AParser\obj\Debug\netcoreapp1.1\GParser.dll
+D:\Projects\Parser\VGCMS\AParser\obj\Debug\netcoreapp1.1\GParser.pdb

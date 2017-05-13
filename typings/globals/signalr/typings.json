@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/b759d12f919308eb34b2bbb93f0a55dc6dbd157b/signalr/index.d.ts",
+    "raw": "registry:dt/signalr#2.2.0+20161220143330",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/b759d12f919308eb34b2bbb93f0a55dc6dbd157b/signalr/index.d.ts"
+  }
+}

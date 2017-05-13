@@ -1,0 +1,59 @@
+<table class="table table-bordered box">
+    <thead>
+        <tr>
+            <th><span  class="match-th">Team</span></th>
+            <th><span  class="match-th">Score</span></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><span class="teamName">{{match.Host}}</span></td>
+            <td><span class="teamScore"> {{match.HostScore}} </span></td>
+        </tr>
+        <tr>
+            <td><span class="teamName"> {{match.Guest}} </span></td>
+            <td><span class="teamScore">{{match.GuestScore}}</span></td>
+        </tr>
+        <tr>
+            <td>
+                <span class="match-type">{{match.Type}}</span>
+            </td>
+            <td>
+                <button type="button" class="btn btn-default btn-md" (click)="setSubscription(true)" *ngIf="!subscribed">
+                            Subscribe to feed
+                        </button>
+                <button type="button" class="btn btn-danger btn-md" (click)="setSubscription(false)" *ngIf="subscribed">
+                            Unubscribe
+                        </button>
+            </td>
+        </tr>
+        <tr *ngIf="subscribed">
+            <td><button type="button" class="btn btn-default btn-md" (click)="addChatMessage()" [disabled]="chatMessage.trim().length === 0">Send</button></td>
+            <td><input type="text" class="form-control" placeholder="Type message.." [(ngModel)]="chatMessage" /></td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <div class="feed-table">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>Update</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr *ngFor="let feed of match.Feeds" feedHighlight>
+                                <td>
+                                    <span class="feed-time">{{feed.CreatedAt | date:'shortTime' }}</span>
+                                </td>
+                                <td class="filterable-cell">
+                                    <span class="feed-update"> {{feed.Description}} </span>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table>

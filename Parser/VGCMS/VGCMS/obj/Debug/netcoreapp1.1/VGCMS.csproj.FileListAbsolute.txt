@@ -1,0 +1,11 @@
+D:\Projects\Parser\VGCMS\VGCMS\bin\Debug\netcoreapp1.1\VGCMS.deps.json
+D:\Projects\Parser\VGCMS\VGCMS\bin\Debug\netcoreapp1.1\VGCMS.runtimeconfig.json
+D:\Projects\Parser\VGCMS\VGCMS\bin\Debug\netcoreapp1.1\VGCMS.runtimeconfig.dev.json
+D:\Projects\Parser\VGCMS\VGCMS\bin\Debug\netcoreapp1.1\VGCMS.dll
+D:\Projects\Parser\VGCMS\VGCMS\bin\Debug\netcoreapp1.1\VGCMS.pdb
+D:\Projects\Parser\VGCMS\VGCMS\obj\Debug\netcoreapp1.1\VGCMS.csprojResolveAssemblyReference.cache
+D:\Projects\Parser\VGCMS\VGCMS\obj\Debug\netcoreapp1.1\VGCMS.AssemblyInfo.cs
+D:\Projects\Parser\VGCMS\VGCMS\obj\Debug\netcoreapp1.1\VGCMS.dll
+D:\Projects\Parser\VGCMS\VGCMS\obj\Debug\netcoreapp1.1\VGCMS.pdb
+D:\Projects\Parser\VGCMS\VGCMS\bin\Debug\netcoreapp1.1\GParser.dll
+D:\Projects\Parser\VGCMS\VGCMS\bin\Debug\netcoreapp1.1\GParser.pdb

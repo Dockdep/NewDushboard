@@ -1,0 +1,13 @@
+<div class="main-content">
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-4" *ngFor="let match of matches">
+                <match [match]="match" (updateSubscription)="updateSubscription($event)"></match>
+            </div>
+            <div class="col-md-4">
+                <chat [matches]="matches" [connection]="connectionId"></chat>
+            </div>
+        </div>
+    </div>
+</div>

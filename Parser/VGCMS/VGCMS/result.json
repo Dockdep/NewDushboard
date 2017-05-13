@@ -1,0 +1,316 @@
+﻿{
+    {
+        "success": 1,
+        "data": {
+            "logs": {
+                "1": {
+                    "1": [
+                        [ 0, 1491262512, "Parser SE::Google::0 parse query test2" ],
+                        [ 0, 1491262512, "Use proxy http://51.255.55.144:22533" ],
+                        [ 0, 1491262512, "GET(1): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test2&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262512, "Use proxy http://51.255.55.144:22364" ],
+                        [ 0, 1491262512, "GET(2): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test2&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262512, "Use proxy http://51.255.55.144:21373" ],
+                        [ 0, 1491262513, "GET(3): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test2&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:24181" ],
+                        [ 0, 1491262513, "GET(4): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test2&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:23597" ],
+                        [ 0, 1491262513, "GET(5): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test2&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:21468" ],
+                        [ 0, 1491262513, "GET(6): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test2&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:23759" ],
+                        [ 0, 1491262513, "GET(7): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test2&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:21114" ],
+                        [ 0, 1491262513, "GET(8): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test2&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:23559" ],
+                        [ 0, 1491262513, "GET(9): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test2&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:22701" ],
+                        [ 0, 1491262513, "GET(10): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test2&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 3, 1491262513, 0 ],
+                        [ 0, 1491262516, "Thread complete work" ]
+                    ]
+                },
+                "4": {
+                    "1": [
+                        [ 0, 1491262512, "Parser SE::Google::0 parse query test5" ],
+                        [ 0, 1491262512, "Use proxy http://51.255.55.144:23637" ],
+                        [ 0, 1491262512, "GET(1): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test5&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262512, "Use proxy http://51.255.55.144:22340" ],
+                        [ 0, 1491262512, "GET(2): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test5&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262512, "Use proxy http://51.255.55.144:21808" ],
+                        [ 0, 1491262513, "GET(3): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test5&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:22074" ],
+                        [ 0, 1491262513, "GET(4): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test5&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:22257" ],
+                        [ 0, 1491262513, "GET(5): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test5&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:22406" ],
+                        [ 0, 1491262513, "GET(6): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test5&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:23877" ],
+                        [ 0, 1491262513, "GET(7): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test5&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:22377" ],
+                        [ 0, 1491262514, "GET(8): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test5&num=10 - 596 Can't connect to proxy(Unknown error) (0 KB)" ],
+                        [ 0, 1491262514, "Use proxy http://51.255.55.144:23532" ],
+                        [ 0, 1491262515, "GET(9): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test5&num=10 - 596 Can't connect to proxy(Bad file descriptor) (0 KB)" ],
+                        [ 0, 1491262515, "Use proxy http://51.255.55.144:24006" ],
+                        [ 0, 1491262516, "GET(10): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test5&num=10 - 596 Can't connect to proxy(Unknown error) (0 KB)" ],
+                        [ 3, 1491262516, 0 ],
+                        [ 0, 1491262516, "Thread complete work" ]
+                    ]
+                },
+                "0": {
+                    "1": [
+                        [ 0, 1491262512, "Parser SE::Google::0 parse query test1" ],
+                        [ 0, 1491262512, "Use proxy http://51.255.55.144:21278" ],
+                        [ 0, 1491262512, "GET(1): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test1&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262512, "Use proxy http://51.255.55.144:23176" ],
+                        [ 0, 1491262512, "GET(2): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test1&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262512, "Use proxy http://51.255.55.144:21511" ],
+                        [ 0, 1491262513, "GET(3): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test1&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:22667" ],
+                        [ 0, 1491262513, "GET(4): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test1&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:21777" ],
+                        [ 0, 1491262513, "GET(5): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test1&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:23878" ],
+                        [ 0, 1491262513, "GET(6): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test1&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:22968" ],
+                        [ 0, 1491262513, "GET(7): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test1&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:24200" ],
+                        [ 0, 1491262513, "GET(8): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test1&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:22904" ],
+                        [ 0, 1491262513, "GET(9): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test1&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:22691" ],
+                        [ 0, 1491262513, "GET(10): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test1&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 3, 1491262513, 0 ],
+                        [ 0, 1491262516, "Thread complete work" ]
+                    ]
+                },
+                "3": {
+                    "1": [
+                        [ 0, 1491262512, "Parser SE::Google::0 parse query test4" ],
+                        [ 0, 1491262512, "Use proxy http://51.255.55.144:22760" ],
+                        [ 0, 1491262512, "GET(1): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test4&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262512, "Use proxy http://51.255.55.144:22599" ],
+                        [ 0, 1491262512, "GET(2): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test4&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262512, "Use proxy http://51.255.55.144:23978" ],
+                        [ 0, 1491262514, "GET(3): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test4&num=10 - 596 Can't connect to proxy(Bad file descriptor) (0 KB)" ],
+                        [ 0, 1491262514, "Use proxy http://51.255.55.144:21464" ],
+                        [ 0, 1491262514, "GET(4): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test4&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262514, "Use proxy http://51.255.55.144:21167" ],
+                        [ 0, 1491262514, "GET(5): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test4&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262514, "Use proxy http://51.255.55.144:24122" ],
+                        [ 0, 1491262514, "GET(6): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test4&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262514, "Use proxy http://51.255.55.144:23839" ],
+                        [ 0, 1491262514, "GET(7): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test4&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262514, "Use proxy http://51.255.55.144:23541" ],
+                        [ 0, 1491262514, "GET(8): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test4&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262514, "Use proxy http://51.255.55.144:22252" ],
+                        [ 0, 1491262514, "GET(9): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test4&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262514, "Use proxy http://51.255.55.144:22980" ],
+                        [ 0, 1491262514, "GET(10): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test4&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 3, 1491262514, 0 ],
+                        [ 0, 1491262516, "Thread complete work" ]
+                    ]
+                },
+                "2": {
+                    "1": [
+                        [ 0, 1491262512, "Parser SE::Google::0 parse query test3" ],
+                        [ 0, 1491262512, "Use proxy http://51.255.55.144:21029" ],
+                        [ 0, 1491262512, "GET(1): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test3&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262512, "Use proxy http://51.255.55.144:22529" ],
+                        [ 0, 1491262512, "GET(2): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test3&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262512, "Use proxy http://51.255.55.144:22894" ],
+                        [ 0, 1491262513, "GET(3): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test3&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:23072" ],
+                        [ 0, 1491262513, "GET(4): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test3&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:22298" ],
+                        [ 0, 1491262513, "GET(5): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test3&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:23211" ],
+                        [ 0, 1491262513, "GET(6): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test3&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:22411" ],
+                        [ 0, 1491262513, "GET(7): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test3&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:21143" ],
+                        [ 0, 1491262513, "GET(8): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test3&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:24150" ],
+                        [ 0, 1491262513, "GET(9): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test3&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 0, 1491262513, "Use proxy http://51.255.55.144:21556" ],
+                        [ 0, 1491262513, "GET(10): https://www.google.com/search?ie=utf-8&oe=utf-8&hl=en&q=test3&num=10 - 596 HTTPS(C) proxy error: Read error (0 KB)" ],
+                        [ 3, 1491262513, 0 ],
+                        [ 0, 1491262516, "Thread complete work" ]
+                    ]
+                }
+            },
+            "results": [
+                {
+                    "ads": [],
+                    "info": {
+                        "success": 0,
+                        "retries": 11,
+                        "stats": {
+                            "success": 0,
+                            "retries": 11,
+                            "requests": 10,
+                            "queries": 1,
+                            "captchaRecognized": 0,
+                            "captchaSended": 0,
+                            "captchaBads": 0,
+                            "proxiesUsed": 10,
+                            "captchaShows": 0
+                        }
+                    },
+                    "query": {
+                        "first": "test1",
+                        "lvl": 0,
+                        "query": "test1",
+                        "state": 1,
+                        "threadId": "0",
+                        "httpsuse": 1,
+                        "queryUid": "0",
+                        "orig": "test1"
+                    },
+                    "totalcount": "none",
+                    "serp": [],
+                    "related": [],
+                    "misspell": "none",
+                    "resultsCount": 0,
+                    "pages": []
+                },
+                {
+                    "ads": [],
+                    "info": {
+                        "success": 0,
+                        "retries": 11,
+                        "stats": {
+                            "success": 0,
+                            "retries": 11,
+                            "requests": 10,
+                            "queries": 1,
+                            "captchaRecognized": 0,
+                            "captchaSended": 0,
+                            "captchaBads": 0,
+                            "proxiesUsed": 10,
+                            "captchaShows": 0
+                        }
+                    },
+                    "query": {
+                        "first": "test2",
+                        "lvl": 0,
+                        "query": "test2",
+                        "state": 1,
+                        "threadId": "1",
+                        "httpsuse": 1,
+                        "queryUid": "1",
+                        "orig": "test2"
+                    },
+                    "totalcount": "none",
+                    "serp": [],
+                    "related": [],
+                    "misspell": "none",
+                    "resultsCount": 0,
+                    "pages": []
+                },
+                {
+                    "ads": [],
+                    "info": {
+                        "success": 0,
+                        "retries": 11,
+                        "stats": {
+                            "success": 0,
+                            "retries": 11,
+                            "requests": 10,
+                            "queries": 1,
+                            "captchaRecognized": 0,
+                            "captchaSended": 0,
+                            "captchaBads": 0,
+                            "proxiesUsed": 10,
+                            "captchaShows": 0
+                        }
+                    },
+                    "query": {
+                        "first": "test3",
+                        "lvl": 0,
+                        "query": "test3",
+                        "state": 1,
+                        "threadId": "2",
+                        "httpsuse": 1,
+                        "queryUid": "2",
+                        "orig": "test3"
+                    },
+                    "totalcount": "none",
+                    "serp": [],
+                    "related": [],
+                    "misspell": "none",
+                    "resultsCount": 0,
+                    "pages": []
+                },
+                {
+                    "ads": [],
+                    "info": {
+                        "success": 0,
+                        "retries": 11,
+                        "stats": {
+                            "success": 0,
+                            "retries": 11,
+                            "requests": 10,
+                            "queries": 1,
+                            "captchaRecognized": 0,
+                            "captchaSended": 0,
+                            "captchaBads": 0,
+                            "proxiesUsed": 10,
+                            "captchaShows": 0
+                        }
+                    },
+                    "query": {
+                        "first": "test4",
+                        "lvl": 0,
+                        "query": "test4",
+                        "state": 1,
+                        "threadId": "3",
+                        "httpsuse": 1,
+                        "queryUid": "3",
+                        "orig": "test4"
+                    },
+                    "totalcount": "none",
+                    "serp": [],
+                    "related": [],
+                    "misspell": "none",
+                    "resultsCount": 0,
+                    "pages": []
+                },
+                {
+                    "ads": [],
+                    "info": {
+                        "success": 0,
+                        "retries": 11,
+                        "stats": {
+                            "success": 0,
+                            "retries": 11,
+                            "requests": 10,
+                            "queries": 1,
+                            "captchaRecognized": 0,
+                            "captchaSended": 0,
+                            "captchaBads": 0,
+                            "proxiesUsed": 10,
+                            "captchaShows": 0
+                        }
+                    },
+                    "query": {
+                        "first": "test5",
+                        "lvl": 0,
+                        "query": "test5",
+                        "state": 1,
+                        "threadId": "4",
+                        "httpsuse": 1,
+                        "queryUid": "4",
+                        "orig": "test5"
+                    },
+                    "totalcount": "none",
+                    "serp": [],
+                    "related": [],
+                    "misspell": "none",
+                    "resultsCount": 0,
+                    "pages": []
+                }
+            ]
+        }
+    }
+}
